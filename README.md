@@ -1,17 +1,14 @@
-# workwithsql
+#The way, lean and agile
 
 ##Objective
-  record the topic and step to work with mysql on pi both server side and client side;
+topci every 2 weeks;
 
 ##Topic
-1. Start/close/monitor the running sql on server;
-2. user management;
-3. Connect to server database;
-4. More...
+1. standardlize, apilize with github and markdown;
+
 
 ##Environment
-1. Debian on raspberry;
-2. Python and javascript/nodejs.
+1. None;
 
 ##Interactive
 1. Any comment and advice are welcome.

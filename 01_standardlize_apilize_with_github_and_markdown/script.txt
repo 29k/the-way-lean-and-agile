@@ -58,7 +58,8 @@ this is it;
 #recommend resource
 1. wiki github, [link](https://en.wikipedia.org/wiki/GitHub);
 2. wiki markdown,[link](https://en.wikipedia.org/wiki/Markdown);
-3. github cheatsheet,[link](https://github.com/tiimgreen/github-cheat-sheet);
+3. github cheatsheet1,[link](https://github.com/tiimgreen/github-cheat-sheet);
+3. github cheatsheet2,[link](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf);
 3. markdown cheatsheet, [link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet);
 
 #Credit
