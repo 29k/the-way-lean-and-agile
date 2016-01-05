@@ -21,9 +21,9 @@ Yangyikai(yangyikai29k@gmail.com)
 
 #Content
 ###Background explain
-1. Time is change, now elite group work in aglie and lean;
-2. Time is not change, for group work, now 1 + 1 > 2;
-3. Time is change, let's work and develop in a decent manner;
+1. Now elite group work in aglie and lean;
+2. For group work, now 1 + 1 > 2;
+3. Let's work and develop in a decent manner;
 
 ###Why should we "standardlize" and "apilize"
 1. I can find the information efficiently;
@@ -52,6 +52,13 @@ Yangyikai(yangyikai29k@gmail.com)
 
 ###Project example
 this is it;
+
+###Github advance
+1. cooperate with cowoker, add contributer;
+2. add issue with label and sign to guys and check box;
+3. add milestone;
+4. push brach and push request;
+
 
 #Open Issue
 
