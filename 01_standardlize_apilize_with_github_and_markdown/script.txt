@@ -16,8 +16,10 @@ Yangyikai(yangyikai29k@gmail.com)
 2. At most 3 "Why should we XXX";
 3. At least 3 "What is XXX"
 4. At least 3 "how to do with XXX";
+5. At least 3 "Dark side";
 5. At least 1 project example;
 6. At least 3 recommend out link file;
+
 
 #Content
 ###Background explain
@@ -33,6 +35,7 @@ Yangyikai(yangyikai29k@gmail.com)
 ###What is standardlize and apilize;
 1. template for common task;
 2. structure the doc;
+3. if possible, codebook;
 
 ###What is github
 1. a version control app with doc/coding/file;
@@ -55,9 +58,21 @@ this is it;
 
 ###Github advance
 1. cooperate with cowoker, add contributer;
-2. add issue with label and sign to guys and check box;
+2. add issue with label(createable) and sign to guys and check box;
 3. add milestone;
 4. push brach and push request;
+
+###Open your mind
+1. What about track yourself the learning and study progress?
+2. What about track your body training progress?
+3. What about track your mission and pushed by it?
+4. What about follow your group or project status by it?
+5. What about do cooperater work with it?
+
+###Dark side
+1. do not over do;
+2. keep things as simple as possible;
+3. keep headless;
 
 
 #Open Issue
