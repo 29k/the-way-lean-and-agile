@@ -4,12 +4,15 @@ standardlize and apilize with github and markdown
 #report and coworker
 Yangyikai(yangyikai29k@gmail.com)
 
+#Video
+download from 360yun, [link](http://yunpan.cn/OcuNV3fZRbYB4E), password:90cb
+
+
 #Objective
 1. Introduction the importance of standardlize and apilize your knowledge, work, idea...;
 2. Introduction the useage of github and markdown;
 3. Explain how to do standardlize and apilize with github and markdown;
 4. Introduction how to do coperate work via github in a efficient and clean manner;
-
 
 #Requirement
 1. At least 3 "background knowledge";
@@ -68,6 +71,8 @@ this is it;
 3. What about track your mission and pushed by it?
 4. What about follow your group or project status by it?
 5. What about do cooperater work with it?
+6. What about simple project document managment?
+
 
 ###Dark side
 1. do not over do;
